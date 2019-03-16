@@ -1,18 +1,18 @@
 {
   "firstName": "Stian",
-  "lastName": "Notsoyolo",
+  "lastName": "Heimset",
   "birthday": "25.02.1992",
   "title": "Java Fullstack Developer",
-  "image": "http://www.suttonsilver.co.uk/wp-content/uploads/blog-harold-02.jpg",
-  "aboutMe": "Lorem ipsum dolor sit amet, an detracto omnesque offendit usu, ut timeam dissentiet vim, in sea possim labitur. Eum ei erant instructior, ei eum convenire delicatissimi. Ius paulo accusata persecuti at, pri ea liber delectus. Cu tota detracto insolens usu. Minim dolor quodsi ut quo. Ei eam commodo fabulas, pri ex exerci virtute, dicta diceret ei pri. Usu ei quaeque habemus efficiendi, admodum propriae assueverit eam an. At integre bonorum intellegat qui.",
+  "image": "/img1.jpg",
+  "aboutMe": "Stian er en fullstack Javautvikler med erfaring fra Java og JavaScript. I tillegg har utvikleren kunnskap om ulike rammeverk og teknologier som som baserer seg på disse programmeringsspråkene. Han har jobbet mye i NodeJS, Angular og React. Med spesiell interesse for applikasjonsutvikling.",
 
   "contactInfo": {
     "address": "Tullegata 1, 1339 Oslo",
     "tlf": "95303409",
     "email": "stianheimset@hotmail.com",
     "links": {
-      "linkedin": "www.linkedin.com/notsoyolo",
-      "github": "www.github.com"
+      "linkedin": "https://www.linkedin.com/in/stian-heimset-8b54b3158",
+      "github": "https://github.com/Stixus"
     }
   },
 
@@ -21,32 +21,72 @@
       "title": "Java Fullstack Developer",
       "company": "Experis Academy",
       "location": "Oslo, Norway",
-      "startDate": "02.2019",
+      "startDate": "February 2019",
       "endDate": "",
-      "description": "Very nice job"
+      "description": "Training to become a consultant for Experis."
     },
     {
-      "title": "Programmer",
-      "company": "Exp Academy",
-      "location": "Oslo, Norway",
-      "startDate": "01.2015",
-      "endDate": "08.2015",
-      "description": "Very shite job"
+      "title": "Warehouse Employee",
+      "company": "Asko Vest AS",
+      "location": "Bergen, Norway",
+      "startDate": "January 2015",
+      "endDate": "August 2015",
+      "description": "Picking and assembling goods."
+    },
+    {
+      "title": "Backoffice",
+      "company": "Frende Skadeforsikring AS",
+      "location": "Bergen, Norway",
+      "startDate": "June 2012",
+      "endDate": "August 2012",
+      "description": "Receiving and distribution of e-mail. Sorting regular post. Scanning and classification of damage settlements."
+    },
+    {
+      "title": "Employee",
+      "company": "Kiwi AS",
+      "location": "Bergen, Norway",
+      "startDate": "January 2010",
+      "endDate": "January 2011",
+      "description": "Service of customers and sorting goods."
     }
   ],
 
   "education": [
     {
-      "school": "Universitetet i Bergen",
+      "school": "The University in Bergen",
       "degree": "Bachelor's Degree",
-      "fieldOfStudy": "Drug Medicine",
-      "startYear": "2017",
+      "fieldOfStudy": "Information Science",
+      "startYear": "2016",
       "endYear": "2018",
-      "description": "produce drugs"
+      "description": "A broad introduction to information- and communication technology. Particular weight placed on the programming languages Java, JavaScript, CSS and HTML."
+    },
+    {
+      "school": "The University in Bergen",
+      "degree": "A year of study",
+      "fieldOfStudy": "Comparative Politics",
+      "startYear": "2014",
+      "endYear": "2015",
+      "description": "Introduction to political systems (and comparing these) in various countries and their political history. Particular weight placed on political development of current political relations in Europe."
+    },
+    {
+      "school": "The University in Bergen",
+      "degree": "A year of study",
+      "fieldOfStudy": "English",
+      "startYear": "2013",
+      "endYear": "2014",
+      "description": "Studies of grammar and phonetics, sociolinguistic aspects of the English language, modern linguistics, language history and British and American literature and culture."
+    },
+    {
+      "school": "The University in Bergen",
+      "degree": "Bachelor's Degree",
+      "fieldOfStudy": "History",
+      "startYear": "2011",
+      "endYear": "2013",
+      "description": "Introduction in important aspects of the community development, in and outside Norway, in older and modern time. Introduction in how historians work with providing and creating knowledge of the past, and how different methodical approaches affects the interpretation and knowledge of the past."
     }
   ],
 
-  "qualification": ["Java", "JavaScript", "Pet Dog"],
+  "qualification": ["Java", "JavaScript", "CSS", "HTML"],
 
-  "interest": ["Football", "Music", "Gaming", "Foods"]
+  "interest": ["Photography", "Soccer", "Hiking", "Technology"]
 }
